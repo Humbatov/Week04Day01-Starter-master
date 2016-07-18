@@ -1,0 +1,164 @@
+/* common classes */
+.divHeight{
+	height:100%;
+}
+
+.mainTextColor {
+	color: white;
+}
+.timelineMargin{
+	margin:150px 0; 
+}
+
+
+#main{
+	background-image: url("../image/header.jpg");
+	background-size: cover;
+
+}
+#main .container-fluid{
+	padding: 0px;
+}
+#main .navbar{
+	border-radius: 0px;
+}
+
+#main h3 {
+	font-style: italic;
+	font-size: 3em;
+}
+#main h1 {
+	font-size: 5em;
+	font-weight: 700;
+}
+#main .btn {
+	border-radius: 0;
+	padding: 20px;
+}
+#main .content{
+	padding: 50px 0;
+}
+
+
+#services {
+}
+
+#services .mainColor{
+background-color: white;
+}
+#services h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+#services i{
+	color: white;
+	background-color: #FED136;
+	border-radius: 100%;
+	padding:30px;
+}
+
+#services h6 {
+	padding: 20px 0;
+	font-style: italic;
+
+}
+#services .content {
+	padding: 50px 0;
+}
+
+
+
+#portfolio {
+	
+}
+#portfolio .mainColor{
+	background-color: lightgray;
+}
+
+#portfolio .content {
+	padding: 50px 0;
+}
+
+#portfolio h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+#portfolio h6 {
+	padding: 20px 0;
+	font-style: italic;
+}
+
+
+#about{
+	min-height: 1000px;
+}
+#about .mainColor{
+	background-color: white;
+}
+#about h2{
+	text-transform: uppercase;
+	font-weight: 700;
+
+}
+#about h3{
+	padding: 20px 0;
+	font-style: italic;
+}
+#about ul {
+	display: block;
+  	list-style-type: none
+}
+#about h4{
+	color: black;
+	font-style: bold;
+}
+#about img{
+	border:10px solid #F1F1F1;
+}
+#about h6{
+	width: 180px;
+	height: 180px;
+	font-size: 2em;
+	background: #FED136;
+	border:10px solid #F1F1F1;
+	color: white;
+}
+#team{
+	height: 800px;
+}
+#team .mainColor{
+	background-color: #EEEEEE;
+	border: none;
+}
+#team .social-buttons{
+	font-size: 2em;
+	
+}
+#team li{
+	width: 50px;
+	height: 50px;
+	background:black;
+	border-radius: 50%
+}
+#team a {
+	color: white;
+}
+#team .large {
+	font-size: 1.8em;
+	margin-top: 50px;
+
+}
+#sponsor{
+	height: 200px;
+	margin-top: 50px;
+}
+#sponsor img{
+	height: 75px;
+}
+#contact{
+	height: 350px;
+}
+#contact .mainColor{
+	background-color: gray;
+}
